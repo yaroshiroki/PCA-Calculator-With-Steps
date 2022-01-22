@@ -5,4 +5,5 @@ The labels explain each step and the comments tell you exactly what you need to 
 1. Change the matrix A to be filled with the values of your matrix.
 2. Depending on whether you are using a sample or the whole population, either use df_cov or df_mat. df_cov = Population, df_mat = Sample.
 3. Change the value of n_components based on the value of k which the question asks you for.
+
 Feel free to download and use this code:)
